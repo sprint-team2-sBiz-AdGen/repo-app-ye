@@ -14,7 +14,7 @@ build/
 .vscode/
 *.log
 uv.lock
-
-
-
-
+test/
+models_cache/
+bak/
+frontend/
